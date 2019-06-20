@@ -1,11 +1,11 @@
 <?php
 /**
 * Plugin Name: Jumlah Tulisan
-* Plugin URI: http://kdesain.com
+* Plugin URI: https://ahmadbagwi.id
 * Description: Menampilkan jumlah tulisan pada situs WordPress Multisite dengan filter per tahun dan bulan
 * Version: 0.2
 * Author: Ahmad Bagwi Rifai
-* Author URI: https://23redstrip.wordpress.com
+* Author URI: https://localhost91.wordpress.com
 */
 defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
 function jumlah_tulisan_actions() {
